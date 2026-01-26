@@ -1,1 +1,31 @@
+Exercices Python – Variables et chaînes de caractères
+
+Ces exercices sont destinés à un cours de Python pour les sciences sociales. L’objectif est de se familiariser avec les variables et les chaînes de caractères.
+
+Exercice 1 – Création de variables
+Créez trois variables : prenom, nom et age. Attribuez à chacune une valeur de votre choix.
+
+Exercice 2 – Concatenation de chaînes
+À partir des variables prenom et nom, créez une nouvelle variable nom_complet qui les combine avec un espace.
+
+Exercice 3 – Chaînes et nombres
+Créez une phrase en utilisant prenom, nom et age.
+
+Exercice 4 – Majuscules et minuscules
+Affichez nom_complet en majuscules et en minuscules.
+
+Exercice 5 – Compter mots et caractères
+Comptez combien de mots et combien de caractères se trouvent dans la phrase crée dans l'exercice 3? 
+
+Exercice 6 – Remplacement dans une chaîne
+Remplacez le nom avec un autre dans nom_complet.
+
+Exercice 7 – Vérification de présence
+Vérifiez si le mot "est" est présent dans la phrase crée dans l'exercice 3.
+
+Exercice 8 - Composition d’une URL (préparation au scraping)
+Vous avez un site fictif avec des profils individuels. L’URL de base est :
+https://www.datasociale.org/profil/
+Chaque profil peut être accédé via le prenom et le nom en minuscules, séparés par un tiret.
+créer une variable qui contient l’URL complète pour la personne identifié dans l'exercice 1 (ex. https://www.datasociale.org/profil/floriana-gargiulo).
 
