@@ -10,7 +10,8 @@ Exercice 2 – Concatenation de chaînes
 À partir des variables prenom et nom, créez une nouvelle variable nom_complet qui les combine avec un espace.
 
 Exercice 3 – Chaînes et nombres
-Créez une variable qui contient une phrase en utilisant prenom, nom et age en utilisant les operateurs de composition du text (ex. Lucille Paris a 24 ans et habite dans le 18eme arrondissement de Paris. Elle a fait ses etudes à la Sorbonne).
+Créez une variable qui contient une phrase en utilisant prenom, nom et age en utilisant les operateurs de composition du text 
+(ex. Lucille Paris a 24 ans et habite dans le 18eme arrondissement de Paris. Elle a fait ses etudes à la Sorbonne).
 
 Exercice 4 – Majuscules et minuscules
 Affichez nom_complet en majuscules et en minuscules.
