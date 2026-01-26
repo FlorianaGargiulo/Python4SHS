@@ -11,6 +11,7 @@ L'objectif est de fournir aux étudiants des outils pratiques pour **apprendre P
 |---------|------------|
 | `1_intro2jupyter.ipynb` | Introduction à l'environnement **Jupyter Notebook** : cellules Markdown et code, exécution, kernel, gestion des fichiers et structure de projet. |
 | `2_variables.ipynb` | Introduction aux **types de variables en Python** : nombres, chaînes, booléens, listes, tuples, dictionnaires et opérations de base. |
+| `3_listes.ipynb` | Introduction aux listes en Python : création, indexation, slicing, méthodes de base |
 
 ---
 
@@ -28,6 +29,8 @@ The goal is to provide students with practical tools to **learn Python** and app
 |------|------------|
 | `1_intro2jupyter.ipynb` | Introduction to the **Jupyter Notebook** environment: Markdown and code cells, execution, kernel, file management, and project structure. |
 | `2_variables.ipynb` | Introduction to **Python variable types**: numbers, strings, booleans, lists, tuples, dictionaries, and basic operations. |
+| `3_listes.ipynb` | Introduction to lists in Python: creation, indexing, slicing, basic methods. |
+
 
 ---
 
