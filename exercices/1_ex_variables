@@ -10,12 +10,3 @@ L’objectif est de se familiariser avec les **variables** et les **chaînes de 
 **Description :**  
 Créez trois variables : `prenom`, `nom` et `age`. Attribuez à chacune une valeur de votre choix.
 
-```python
-# À compléter
-prenom = 
-nom = 
-age = 
-
-print("Prénom :", prenom)
-print("Nom :", nom)
-print("Âge :", age)
