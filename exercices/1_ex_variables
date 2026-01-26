@@ -1,6 +1,7 @@
 Exercices Python – Variables et chaînes de caractères
 
 Ces exercices sont destinés à un cours de Python pour les sciences sociales. L’objectif est de se familiariser avec les variables et les chaînes de caractères.
+Vous pouvez les executer sur Google Colab: https://colab.research.google.com/
 
 Exercice 1 – Création de variables
 Créez trois variables : prenom, nom et age. Attribuez à chacune une valeur de votre choix.
