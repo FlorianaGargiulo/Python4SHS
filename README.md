@@ -14,6 +14,7 @@ L'objectif est de fournir aux étudiants des outils pratiques pour **apprendre P
 | `3_listes.ipynb` | Introduction aux listes en Python : création, indexation, slicing, méthodes de base, la librarie 'collections' |
 | `4_dictionnaires.ipynb` | Introduction aux dictionnaires en Python : création, identification clés - valeurs, méthodes de base. Listes des dictionnaires|
 | `5_boucles_conditions_list_comprehension.ipynb` | Boucles for, condition if, utilisation pour modifier des listes. List comprehension.|
+| `6_lire_ecrire_des_fifhiers.ipynb`| Comment lire et écrire txt, csv, json|
 
 ---
 
@@ -33,6 +34,7 @@ The goal is to provide students with practical tools to **learn Python** and app
 | `3_listes.ipynb` | Introduction to lists in Python: creation, indexing, slicing, basic methods. |
 | `4_dictionnaires.ipynb` | Introduction to dictionaries in Python: creation, identification of keys and values, basic methods. Lists of dictionaries |
 | `5_boucles_conditions_list_comprehension.ipynb` | Cycles for, condition if, modifying lists. List comprehension.|
+| `6_lire_ecrire_des_fifhiers.ipynb`|How to read and write txt, csv, json|
 
 
 ---
