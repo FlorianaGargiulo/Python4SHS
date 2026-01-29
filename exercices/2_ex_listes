@@ -1,0 +1,39 @@
+Exercices Python – Listes
+
+Ces exercices sont destinés à un cours de Python pour les sciences sociales. L’objectif est de se familiariser avec les listes.
+Vous pouvez les executer sur Google Colab: https://colab.research.google.com/
+
+Exercice 1 – Création d’une liste
+Créez une liste appelée prenoms qui contient cinq prénoms de votre choix.
+Créez une liste appelée ages qui contient les ages des individus de la liste prenoms.
+
+Exercice 2 – Accès aux éléments
+Affichez :
+-le premier élément de la liste prénoms
+-le dernier élément de la liste ages
+
+Exercice 3 – Longueur d’une liste
+Calculez et affichez le nombre d’éléments contenus dans la liste prenoms.
+
+Exercice 4 – Ajout d’éléments
+Ajoutez un nouveau prénom à la fin de la liste prenoms.
+Puis affichez la liste mise à jour.
+
+Exercice 5 – Modification d’un élément
+Remplacez le deuxième prénom de la liste par un autre prénom de votre choix.
+
+Exercice 6 – Listes et chaînes de caractères
+Transformez la liste prenoms en une seule chaîne de caractères, toute en minuscule, dans laquelle les prénoms sont séparés par un tiret
+(ex. : lucille-amadou-sarah-karim).
+
+Exercice 7 – Vérification de présence
+Vérifiez si le prénom "Lucille" est présent dans la liste prenoms.
+
+Exercice 8 – Composition de listes
+- Créez une deuxième liste appelée prenoms2.
+- Créez une liste 'tousPrenoms' qui regroupe les deux listes prenoms et prenoms2.
+- Créez une liste de listes 'listesDePrenoms' qui contient comme éléments les listes prenoms et prenoms2.
+
+Exercice 9 - liste des listes
+- Affichez la première liste contenue dans listesDePrenoms.
+- Affichez ensuite le deuxieme prénom de cette liste.
