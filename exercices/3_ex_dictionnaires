@@ -20,3 +20,10 @@ Ajoutez une nouvelle clé profession au dictionnaire personne.
 
 Exercice 5 – Parcourir un dictionnaire
 Affichez la liste des clés du dictionnaire personne.
+
+Exercice 6- Conter les mots d'un texte
+Créez une variable `texte` qui contient un texte d’environ **1000 mots**, que vous pouvez copier depuis une page web de votre choix (article, blog, reportage, etc.).  
+- comptez combien de fois chaque mot apparaît dans le texte
+- affichier les 10 mots plus utilisés
+- quels sont, à votre avis, les bonnes pratiques quand on fait cette operation pour analiser des textes?
+Une solution est donnée pour cette exercice dans le Notebook sol_3_ex_dictionnaires_ex6.ipynb
