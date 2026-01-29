@@ -1,0 +1,22 @@
+Exercice 1 – Création d’un dictionnaire
+Créez un dictionnaire appelé personne qui contient les informations suivantes :
+-prenom
+-nom
+-age
+-ville
+Attribuez à chaque clé une valeur de votre choix.
+
+Exercice 2 – Accès aux valeurs
+Affichez :
+-le prénom de la personne
+-l’âge de la personne
+
+Exercice 3 – Modification d’une valeur
+- Modifiez l’âge de la personne dans le dictionnaire personne.
+- Affichez ensuite le dictionnaire mis à jour.
+
+Exercice 4 – Ajout d’une nouvelle information
+Ajoutez une nouvelle clé profession au dictionnaire personne.
+
+Exercice 5 – Parcourir un dictionnaire
+Affichez la liste des clés du dictionnaire personne.
