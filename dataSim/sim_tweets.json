@@ -1,0 +1,3202 @@
+[
+  {
+    "date":"2024-01-13",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":2303,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #DebatPublic",
+    "nb_retweets":62
+  },
+  {
+    "date":"2024-01-16",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":817,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Europe",
+    "nb_retweets":55
+  },
+  {
+    "date":"2025-01-01",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":4514,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Immigration #Accueil",
+    "nb_retweets":107
+  },
+  {
+    "date":"2024-06-23",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":2326,
+    "contenu_tweet":"La diversité culturelle est un atout. #Migration",
+    "nb_retweets":39
+  },
+  {
+    "date":"2024-02-19",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":2990,
+    "contenu_tweet":"L'immigration manque de régulation. #Europe #Migration",
+    "nb_retweets":88
+  },
+  {
+    "date":"2024-02-10",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":4572,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Frontieres #Migration",
+    "nb_retweets":75
+  },
+  {
+    "date":"2024-12-04",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":1916,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #DebatPublic",
+    "nb_retweets":74
+  },
+  {
+    "date":"2024-08-20",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":3038,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Migration #Accueil",
+    "nb_retweets":41
+  },
+  {
+    "date":"2025-01-08",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":2055,
+    "contenu_tweet":"La diversité culturelle est un atout. #PolitiqueMigratoire",
+    "nb_retweets":41
+  },
+  {
+    "date":"2024-04-27",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":312,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #PolitiqueMigratoire",
+    "nb_retweets":80
+  },
+  {
+    "date":"2024-12-01",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":4139,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Asile",
+    "nb_retweets":101
+  },
+  {
+    "date":"2024-05-06",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":4648,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #DebatPublic #PolitiqueMigratoire",
+    "nb_retweets":137
+  },
+  {
+    "date":"2024-03-11",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":4224,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Accueil",
+    "nb_retweets":126
+  },
+  {
+    "date":"2024-12-14",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":3508,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Europe #Asile",
+    "nb_retweets":16
+  },
+  {
+    "date":"2024-01-06",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":988,
+    "contenu_tweet":"La pression sur les services publics augmente. #Asile",
+    "nb_retweets":137
+  },
+  {
+    "date":"2024-03-21",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":3766,
+    "contenu_tweet":"La pression sur les services publics augmente. #Europe",
+    "nb_retweets":0
+  },
+  {
+    "date":"2024-11-16",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":2494,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Accueil #Immigration",
+    "nb_retweets":129
+  },
+  {
+    "date":"2024-06-14",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":4052,
+    "contenu_tweet":"La diversité culturelle est un atout. #Frontieres #Immigration",
+    "nb_retweets":4
+  },
+  {
+    "date":"2024-10-17",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":695,
+    "contenu_tweet":"L'immigration manque de régulation. #Accueil",
+    "nb_retweets":21
+  },
+  {
+    "date":"2024-10-08",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":1402,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Frontieres #Europe",
+    "nb_retweets":67
+  },
+  {
+    "date":"2024-07-23",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":3109,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Frontieres",
+    "nb_retweets":112
+  },
+  {
+    "date":"2024-02-02",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":2819,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Immigration",
+    "nb_retweets":5
+  },
+  {
+    "date":"2024-12-28",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":532,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Migration #Frontieres",
+    "nb_retweets":58
+  },
+  {
+    "date":"2024-12-08",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":4026,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Frontieres #Travail",
+    "nb_retweets":54
+  },
+  {
+    "date":"2024-04-07",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":822,
+    "contenu_tweet":"La pression sur les services publics augmente. #DebatPublic #Travail",
+    "nb_retweets":24
+  },
+  {
+    "date":"2024-12-10",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":856,
+    "contenu_tweet":"La diversité culturelle est un atout. #Frontieres",
+    "nb_retweets":15
+  },
+  {
+    "date":"2024-04-07",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":4443,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Travail #Frontieres",
+    "nb_retweets":114
+  },
+  {
+    "date":"2024-08-14",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":4558,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Migration",
+    "nb_retweets":25
+  },
+  {
+    "date":"2024-03-26",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":3379,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Accueil",
+    "nb_retweets":124
+  },
+  {
+    "date":"2024-01-02",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":3248,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #DebatPublic #Travail",
+    "nb_retweets":67
+  },
+  {
+    "date":"2024-04-07",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":2480,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #PolitiqueMigratoire",
+    "nb_retweets":55
+  },
+  {
+    "date":"2024-01-26",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":4835,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Immigration",
+    "nb_retweets":122
+  },
+  {
+    "date":"2024-02-11",
+    "user":"user17",
+    "profil_user":"doctorant",
+    "nb_followers":1572,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Migration #Frontieres",
+    "nb_retweets":17
+  },
+  {
+    "date":"2024-10-31",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":375,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Asile #Frontieres",
+    "nb_retweets":20
+  },
+  {
+    "date":"2024-05-02",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":2225,
+    "contenu_tweet":"La diversité culturelle est un atout. #PolitiqueMigratoire #Migration",
+    "nb_retweets":101
+  },
+  {
+    "date":"2024-08-22",
+    "user":"user01",
+    "profil_user":"citoyen_engage",
+    "nb_followers":4662,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Accueil #PolitiqueMigratoire",
+    "nb_retweets":25
+  },
+  {
+    "date":"2024-05-05",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":3077,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Europe #Immigration",
+    "nb_retweets":72
+  },
+  {
+    "date":"2024-06-02",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":898,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Asile",
+    "nb_retweets":34
+  },
+  {
+    "date":"2024-11-05",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":1775,
+    "contenu_tweet":"La diversité culturelle est un atout. #Asile #Immigration",
+    "nb_retweets":87
+  },
+  {
+    "date":"2024-11-20",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":3519,
+    "contenu_tweet":"La diversité culturelle est un atout. #Asile",
+    "nb_retweets":70
+  },
+  {
+    "date":"2025-01-14",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":3669,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Migration",
+    "nb_retweets":141
+  },
+  {
+    "date":"2024-12-19",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":1271,
+    "contenu_tweet":"La diversité culturelle est un atout. #DebatPublic",
+    "nb_retweets":139
+  },
+  {
+    "date":"2024-01-22",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":2575,
+    "contenu_tweet":"L'immigration manque de régulation. #Frontieres #Europe",
+    "nb_retweets":93
+  },
+  {
+    "date":"2024-06-30",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":4636,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Accueil",
+    "nb_retweets":104
+  },
+  {
+    "date":"2024-07-30",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":253,
+    "contenu_tweet":"La pression sur les services publics augmente. #Frontieres #Asile",
+    "nb_retweets":45
+  },
+  {
+    "date":"2024-12-25",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":935,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Frontieres",
+    "nb_retweets":97
+  },
+  {
+    "date":"2024-06-28",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":2550,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #PolitiqueMigratoire #Asile",
+    "nb_retweets":58
+  },
+  {
+    "date":"2025-01-30",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":2336,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Immigration #Migration",
+    "nb_retweets":89
+  },
+  {
+    "date":"2024-04-01",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":4806,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #PolitiqueMigratoire #Europe",
+    "nb_retweets":67
+  },
+  {
+    "date":"2024-11-06",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":4239,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Asile",
+    "nb_retweets":29
+  },
+  {
+    "date":"2024-12-28",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":3622,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #PolitiqueMigratoire",
+    "nb_retweets":0
+  },
+  {
+    "date":"2024-02-05",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":2754,
+    "contenu_tweet":"L'immigration manque de régulation. #Europe #Asile",
+    "nb_retweets":80
+  },
+  {
+    "date":"2024-06-16",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":3346,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #DebatPublic #Accueil",
+    "nb_retweets":75
+  },
+  {
+    "date":"2024-10-18",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":2515,
+    "contenu_tweet":"L'immigration manque de régulation. #Asile #Frontieres",
+    "nb_retweets":103
+  },
+  {
+    "date":"2024-10-23",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":2689,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Accueil #Migration",
+    "nb_retweets":119
+  },
+  {
+    "date":"2024-09-20",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":2795,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Frontieres #Europe",
+    "nb_retweets":23
+  },
+  {
+    "date":"2024-01-13",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":428,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Travail",
+    "nb_retweets":62
+  },
+  {
+    "date":"2024-11-18",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":4765,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #DebatPublic #Frontieres",
+    "nb_retweets":49
+  },
+  {
+    "date":"2024-12-01",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":95,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Europe",
+    "nb_retweets":27
+  },
+  {
+    "date":"2024-01-26",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":4616,
+    "contenu_tweet":"L'immigration manque de régulation. #Accueil #Travail",
+    "nb_retweets":63
+  },
+  {
+    "date":"2024-10-13",
+    "user":"user17",
+    "profil_user":"doctorant",
+    "nb_followers":4927,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Europe #Travail",
+    "nb_retweets":81
+  },
+  {
+    "date":"2025-01-15",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":3938,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Europe #Travail",
+    "nb_retweets":115
+  },
+  {
+    "date":"2024-05-20",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":3653,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #PolitiqueMigratoire #Europe",
+    "nb_retweets":19
+  },
+  {
+    "date":"2024-02-11",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":1183,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Migration",
+    "nb_retweets":38
+  },
+  {
+    "date":"2024-07-27",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":2760,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #DebatPublic",
+    "nb_retweets":138
+  },
+  {
+    "date":"2025-01-29",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":4834,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Travail #Immigration",
+    "nb_retweets":5
+  },
+  {
+    "date":"2024-06-01",
+    "user":"user12",
+    "profil_user":"assistante_sociale",
+    "nb_followers":3244,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Travail",
+    "nb_retweets":107
+  },
+  {
+    "date":"2024-05-19",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":3620,
+    "contenu_tweet":"La diversité culturelle est un atout. #Accueil #Travail",
+    "nb_retweets":124
+  },
+  {
+    "date":"2024-11-14",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":4425,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Migration",
+    "nb_retweets":6
+  },
+  {
+    "date":"2024-03-10",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":3832,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Frontieres #Travail",
+    "nb_retweets":46
+  },
+  {
+    "date":"2024-06-21",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":3155,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Migration #Travail",
+    "nb_retweets":71
+  },
+  {
+    "date":"2025-01-18",
+    "user":"user01",
+    "profil_user":"citoyen_engage",
+    "nb_followers":4468,
+    "contenu_tweet":"La pression sur les services publics augmente. #Migration",
+    "nb_retweets":13
+  },
+  {
+    "date":"2025-01-21",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":304,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Frontieres",
+    "nb_retweets":63
+  },
+  {
+    "date":"2024-08-30",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":987,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #PolitiqueMigratoire #Accueil",
+    "nb_retweets":144
+  },
+  {
+    "date":"2024-11-06",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":988,
+    "contenu_tweet":"L'immigration manque de régulation. #Asile",
+    "nb_retweets":41
+  },
+  {
+    "date":"2024-12-12",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":3124,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Frontieres",
+    "nb_retweets":101
+  },
+  {
+    "date":"2024-12-22",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":2520,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #PolitiqueMigratoire",
+    "nb_retweets":30
+  },
+  {
+    "date":"2024-08-07",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":3085,
+    "contenu_tweet":"La pression sur les services publics augmente. #DebatPublic",
+    "nb_retweets":17
+  },
+  {
+    "date":"2024-02-24",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":3601,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #DebatPublic",
+    "nb_retweets":92
+  },
+  {
+    "date":"2025-01-10",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":4324,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Travail #DebatPublic",
+    "nb_retweets":69
+  },
+  {
+    "date":"2024-05-17",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":2690,
+    "contenu_tweet":"L'immigration manque de régulation. #Travail #Frontieres",
+    "nb_retweets":62
+  },
+  {
+    "date":"2024-10-18",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":3154,
+    "contenu_tweet":"La diversité culturelle est un atout. #Travail",
+    "nb_retweets":86
+  },
+  {
+    "date":"2024-06-30",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":2166,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Europe #Immigration",
+    "nb_retweets":87
+  },
+  {
+    "date":"2024-04-07",
+    "user":"user17",
+    "profil_user":"doctorant",
+    "nb_followers":751,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Travail",
+    "nb_retweets":61
+  },
+  {
+    "date":"2024-08-17",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":191,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Asile",
+    "nb_retweets":23
+  },
+  {
+    "date":"2024-07-07",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":3926,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #PolitiqueMigratoire #Travail",
+    "nb_retweets":141
+  },
+  {
+    "date":"2024-06-05",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":2109,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Migration #Accueil",
+    "nb_retweets":59
+  },
+  {
+    "date":"2024-04-20",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":4016,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Migration #Frontieres",
+    "nb_retweets":70
+  },
+  {
+    "date":"2024-04-26",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":3006,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Asile",
+    "nb_retweets":45
+  },
+  {
+    "date":"2024-01-28",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":4583,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Migration #Immigration",
+    "nb_retweets":74
+  },
+  {
+    "date":"2024-05-25",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":3895,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Asile",
+    "nb_retweets":122
+  },
+  {
+    "date":"2024-02-28",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":585,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Accueil",
+    "nb_retweets":102
+  },
+  {
+    "date":"2024-10-15",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":2539,
+    "contenu_tweet":"L'immigration manque de régulation. #Frontieres #DebatPublic",
+    "nb_retweets":21
+  },
+  {
+    "date":"2024-08-14",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":2485,
+    "contenu_tweet":"La pression sur les services publics augmente. #Migration",
+    "nb_retweets":150
+  },
+  {
+    "date":"2024-11-16",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":1778,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Accueil",
+    "nb_retweets":67
+  },
+  {
+    "date":"2024-02-08",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":1332,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Asile #Immigration",
+    "nb_retweets":0
+  },
+  {
+    "date":"2024-05-27",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":2366,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Frontieres #DebatPublic",
+    "nb_retweets":116
+  },
+  {
+    "date":"2024-10-05",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":1891,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Immigration",
+    "nb_retweets":38
+  },
+  {
+    "date":"2024-06-06",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":4924,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Travail",
+    "nb_retweets":145
+  },
+  {
+    "date":"2024-12-24",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":3347,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Migration #Immigration",
+    "nb_retweets":69
+  },
+  {
+    "date":"2025-01-11",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":2690,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Asile",
+    "nb_retweets":64
+  },
+  {
+    "date":"2024-01-21",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":1485,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Accueil #DebatPublic",
+    "nb_retweets":120
+  },
+  {
+    "date":"2024-02-16",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":3900,
+    "contenu_tweet":"La diversité culturelle est un atout. #Accueil",
+    "nb_retweets":89
+  },
+  {
+    "date":"2024-07-29",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":4108,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Travail",
+    "nb_retweets":73
+  },
+  {
+    "date":"2024-06-10",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":2117,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Europe",
+    "nb_retweets":82
+  },
+  {
+    "date":"2024-07-30",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":494,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Travail #Immigration",
+    "nb_retweets":48
+  },
+  {
+    "date":"2024-05-16",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":4549,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Migration #Immigration",
+    "nb_retweets":33
+  },
+  {
+    "date":"2024-05-02",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":1347,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Migration #Frontieres",
+    "nb_retweets":79
+  },
+  {
+    "date":"2024-08-24",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":1012,
+    "contenu_tweet":"La diversité culturelle est un atout. #DebatPublic #Travail",
+    "nb_retweets":39
+  },
+  {
+    "date":"2024-05-04",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":3791,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Migration",
+    "nb_retweets":141
+  },
+  {
+    "date":"2025-01-30",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":3449,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Immigration #Asile",
+    "nb_retweets":87
+  },
+  {
+    "date":"2024-10-27",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":4800,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #PolitiqueMigratoire #Europe",
+    "nb_retweets":125
+  },
+  {
+    "date":"2025-01-25",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":4501,
+    "contenu_tweet":"La diversité culturelle est un atout. #Frontieres",
+    "nb_retweets":96
+  },
+  {
+    "date":"2024-07-15",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":1963,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #DebatPublic #Accueil",
+    "nb_retweets":105
+  },
+  {
+    "date":"2024-01-19",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":1084,
+    "contenu_tweet":"La pression sur les services publics augmente. #Travail",
+    "nb_retweets":128
+  },
+  {
+    "date":"2024-09-26",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":3793,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Migration",
+    "nb_retweets":3
+  },
+  {
+    "date":"2024-05-15",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":2823,
+    "contenu_tweet":"La pression sur les services publics augmente. #PolitiqueMigratoire #Travail",
+    "nb_retweets":101
+  },
+  {
+    "date":"2024-01-19",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":610,
+    "contenu_tweet":"La pression sur les services publics augmente. #Migration",
+    "nb_retweets":60
+  },
+  {
+    "date":"2024-02-20",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":873,
+    "contenu_tweet":"La diversité culturelle est un atout. #Immigration",
+    "nb_retweets":113
+  },
+  {
+    "date":"2024-01-29",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":2453,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Europe",
+    "nb_retweets":91
+  },
+  {
+    "date":"2024-10-16",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":1525,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Frontieres #Travail",
+    "nb_retweets":43
+  },
+  {
+    "date":"2024-03-14",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":1952,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Immigration #Travail",
+    "nb_retweets":118
+  },
+  {
+    "date":"2024-12-12",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":4527,
+    "contenu_tweet":"La diversité culturelle est un atout. #DebatPublic #Asile",
+    "nb_retweets":40
+  },
+  {
+    "date":"2024-06-03",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":1681,
+    "contenu_tweet":"L'immigration manque de régulation. #DebatPublic",
+    "nb_retweets":98
+  },
+  {
+    "date":"2024-07-02",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":4758,
+    "contenu_tweet":"La pression sur les services publics augmente. #DebatPublic",
+    "nb_retweets":75
+  },
+  {
+    "date":"2024-01-05",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":4686,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Frontieres #PolitiqueMigratoire",
+    "nb_retweets":12
+  },
+  {
+    "date":"2024-11-21",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":1607,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Immigration",
+    "nb_retweets":64
+  },
+  {
+    "date":"2024-08-13",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":323,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Asile",
+    "nb_retweets":148
+  },
+  {
+    "date":"2025-01-17",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":3453,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Europe #Asile",
+    "nb_retweets":44
+  },
+  {
+    "date":"2024-05-11",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":3997,
+    "contenu_tweet":"La pression sur les services publics augmente. #Travail",
+    "nb_retweets":75
+  },
+  {
+    "date":"2024-03-13",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":1898,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Migration #DebatPublic",
+    "nb_retweets":101
+  },
+  {
+    "date":"2024-05-15",
+    "user":"user01",
+    "profil_user":"citoyen_engage",
+    "nb_followers":4445,
+    "contenu_tweet":"La diversité culturelle est un atout. #PolitiqueMigratoire #Migration",
+    "nb_retweets":31
+  },
+  {
+    "date":"2024-08-29",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":255,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Migration",
+    "nb_retweets":143
+  },
+  {
+    "date":"2024-12-24",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":2525,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Asile",
+    "nb_retweets":104
+  },
+  {
+    "date":"2024-02-29",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":846,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Travail #PolitiqueMigratoire",
+    "nb_retweets":60
+  },
+  {
+    "date":"2024-08-02",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":4861,
+    "contenu_tweet":"L'immigration manque de régulation. #DebatPublic #Asile",
+    "nb_retweets":39
+  },
+  {
+    "date":"2024-12-19",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":3085,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Migration #PolitiqueMigratoire",
+    "nb_retweets":55
+  },
+  {
+    "date":"2024-11-26",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":2988,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Travail",
+    "nb_retweets":15
+  },
+  {
+    "date":"2024-12-05",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":1787,
+    "contenu_tweet":"La diversité culturelle est un atout. #Accueil",
+    "nb_retweets":5
+  },
+  {
+    "date":"2024-04-15",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":612,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #PolitiqueMigratoire",
+    "nb_retweets":141
+  },
+  {
+    "date":"2024-11-01",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":73,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Europe",
+    "nb_retweets":70
+  },
+  {
+    "date":"2024-03-30",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":950,
+    "contenu_tweet":"La diversité culturelle est un atout. #PolitiqueMigratoire",
+    "nb_retweets":6
+  },
+  {
+    "date":"2024-03-30",
+    "user":"user01",
+    "profil_user":"citoyen_engage",
+    "nb_followers":2223,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Migration",
+    "nb_retweets":13
+  },
+  {
+    "date":"2024-08-17",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":3015,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Immigration",
+    "nb_retweets":131
+  },
+  {
+    "date":"2024-06-03",
+    "user":"user17",
+    "profil_user":"doctorant",
+    "nb_followers":3802,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #DebatPublic #Migration",
+    "nb_retweets":7
+  },
+  {
+    "date":"2024-12-30",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":3683,
+    "contenu_tweet":"La pression sur les services publics augmente. #Migration",
+    "nb_retweets":18
+  },
+  {
+    "date":"2024-05-20",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":4845,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Travail #DebatPublic",
+    "nb_retweets":140
+  },
+  {
+    "date":"2024-12-25",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":987,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Travail #Frontieres",
+    "nb_retweets":141
+  },
+  {
+    "date":"2024-06-22",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":3765,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #DebatPublic #PolitiqueMigratoire",
+    "nb_retweets":102
+  },
+  {
+    "date":"2024-07-10",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":1300,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #DebatPublic",
+    "nb_retweets":121
+  },
+  {
+    "date":"2025-01-16",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":3102,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Migration #DebatPublic",
+    "nb_retweets":33
+  },
+  {
+    "date":"2024-12-06",
+    "user":"user12",
+    "profil_user":"assistante_sociale",
+    "nb_followers":3514,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #PolitiqueMigratoire #Migration",
+    "nb_retweets":13
+  },
+  {
+    "date":"2024-09-16",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":1792,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #PolitiqueMigratoire",
+    "nb_retweets":39
+  },
+  {
+    "date":"2024-07-07",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":991,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Asile",
+    "nb_retweets":71
+  },
+  {
+    "date":"2024-04-02",
+    "user":"user01",
+    "profil_user":"citoyen_engage",
+    "nb_followers":2288,
+    "contenu_tweet":"La pression sur les services publics augmente. #Accueil",
+    "nb_retweets":79
+  },
+  {
+    "date":"2024-10-16",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":3333,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Europe",
+    "nb_retweets":17
+  },
+  {
+    "date":"2024-07-11",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":3489,
+    "contenu_tweet":"La diversité culturelle est un atout. #PolitiqueMigratoire #Migration",
+    "nb_retweets":116
+  },
+  {
+    "date":"2024-03-20",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":1339,
+    "contenu_tweet":"La pression sur les services publics augmente. #DebatPublic #Travail",
+    "nb_retweets":12
+  },
+  {
+    "date":"2024-08-14",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":3442,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #PolitiqueMigratoire",
+    "nb_retweets":69
+  },
+  {
+    "date":"2024-02-26",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":2370,
+    "contenu_tweet":"La pression sur les services publics augmente. #Frontieres",
+    "nb_retweets":124
+  },
+  {
+    "date":"2024-11-02",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":498,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Asile",
+    "nb_retweets":1
+  },
+  {
+    "date":"2024-06-16",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":1032,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Accueil",
+    "nb_retweets":1
+  },
+  {
+    "date":"2024-09-29",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":1935,
+    "contenu_tweet":"La pression sur les services publics augmente. #DebatPublic",
+    "nb_retweets":128
+  },
+  {
+    "date":"2024-08-11",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":203,
+    "contenu_tweet":"La pression sur les services publics augmente. #DebatPublic #Europe",
+    "nb_retweets":117
+  },
+  {
+    "date":"2024-02-28",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":3368,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #PolitiqueMigratoire #Migration",
+    "nb_retweets":5
+  },
+  {
+    "date":"2024-02-24",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":2043,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #DebatPublic",
+    "nb_retweets":111
+  },
+  {
+    "date":"2025-01-16",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":2831,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Europe",
+    "nb_retweets":56
+  },
+  {
+    "date":"2024-09-28",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":4227,
+    "contenu_tweet":"La pression sur les services publics augmente. #Accueil #Frontieres",
+    "nb_retweets":49
+  },
+  {
+    "date":"2024-03-15",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":2146,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Accueil",
+    "nb_retweets":50
+  },
+  {
+    "date":"2024-08-25",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":4668,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #PolitiqueMigratoire #Accueil",
+    "nb_retweets":148
+  },
+  {
+    "date":"2024-02-04",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":3891,
+    "contenu_tweet":"La pression sur les services publics augmente. #PolitiqueMigratoire",
+    "nb_retweets":113
+  },
+  {
+    "date":"2024-02-07",
+    "user":"user17",
+    "profil_user":"doctorant",
+    "nb_followers":2592,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Asile #Migration",
+    "nb_retweets":118
+  },
+  {
+    "date":"2024-11-10",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":4916,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Travail",
+    "nb_retweets":129
+  },
+  {
+    "date":"2024-11-29",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":1592,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Immigration",
+    "nb_retweets":82
+  },
+  {
+    "date":"2024-02-22",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":2863,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Frontieres",
+    "nb_retweets":21
+  },
+  {
+    "date":"2024-08-12",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":4343,
+    "contenu_tweet":"La pression sur les services publics augmente. #Asile #DebatPublic",
+    "nb_retweets":133
+  },
+  {
+    "date":"2025-01-31",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":2821,
+    "contenu_tweet":"La pression sur les services publics augmente. #PolitiqueMigratoire",
+    "nb_retweets":13
+  },
+  {
+    "date":"2024-10-12",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":3216,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #PolitiqueMigratoire",
+    "nb_retweets":72
+  },
+  {
+    "date":"2024-10-25",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":1208,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Migration",
+    "nb_retweets":89
+  },
+  {
+    "date":"2024-10-13",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":3135,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #DebatPublic",
+    "nb_retweets":84
+  },
+  {
+    "date":"2024-07-04",
+    "user":"user17",
+    "profil_user":"doctorant",
+    "nb_followers":199,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Travail #Frontieres",
+    "nb_retweets":92
+  },
+  {
+    "date":"2024-03-11",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":1319,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #PolitiqueMigratoire",
+    "nb_retweets":19
+  },
+  {
+    "date":"2024-03-08",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":4942,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Travail",
+    "nb_retweets":96
+  },
+  {
+    "date":"2024-07-29",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":3034,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Travail #Frontieres",
+    "nb_retweets":60
+  },
+  {
+    "date":"2024-05-02",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":2585,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Travail #Europe",
+    "nb_retweets":120
+  },
+  {
+    "date":"2024-07-14",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":4169,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Accueil",
+    "nb_retweets":135
+  },
+  {
+    "date":"2024-01-27",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":3986,
+    "contenu_tweet":"L'immigration manque de régulation. #Asile",
+    "nb_retweets":95
+  },
+  {
+    "date":"2025-01-25",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":1363,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #DebatPublic",
+    "nb_retweets":69
+  },
+  {
+    "date":"2024-04-23",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":3745,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #DebatPublic",
+    "nb_retweets":89
+  },
+  {
+    "date":"2024-07-10",
+    "user":"user17",
+    "profil_user":"doctorant",
+    "nb_followers":1981,
+    "contenu_tweet":"La pression sur les services publics augmente. #Immigration",
+    "nb_retweets":98
+  },
+  {
+    "date":"2024-02-20",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":2796,
+    "contenu_tweet":"La diversité culturelle est un atout. #Accueil #Travail",
+    "nb_retweets":37
+  },
+  {
+    "date":"2024-11-11",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":93,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Europe",
+    "nb_retweets":20
+  },
+  {
+    "date":"2024-09-27",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":3517,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Migration #Immigration",
+    "nb_retweets":28
+  },
+  {
+    "date":"2024-08-02",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":3794,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Europe",
+    "nb_retweets":16
+  },
+  {
+    "date":"2024-05-03",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":1226,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Frontieres #DebatPublic",
+    "nb_retweets":74
+  },
+  {
+    "date":"2024-12-06",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":751,
+    "contenu_tweet":"L'immigration manque de régulation. #DebatPublic",
+    "nb_retweets":134
+  },
+  {
+    "date":"2024-01-23",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":3219,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Migration #PolitiqueMigratoire",
+    "nb_retweets":95
+  },
+  {
+    "date":"2025-01-10",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":899,
+    "contenu_tweet":"La pression sur les services publics augmente. #Immigration",
+    "nb_retweets":148
+  },
+  {
+    "date":"2024-10-06",
+    "user":"user12",
+    "profil_user":"assistante_sociale",
+    "nb_followers":2823,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Accueil #Europe",
+    "nb_retweets":44
+  },
+  {
+    "date":"2025-01-01",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":3799,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Immigration",
+    "nb_retweets":9
+  },
+  {
+    "date":"2024-06-07",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":4272,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Asile #Immigration",
+    "nb_retweets":101
+  },
+  {
+    "date":"2024-05-26",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":2974,
+    "contenu_tweet":"La pression sur les services publics augmente. #Migration #PolitiqueMigratoire",
+    "nb_retweets":12
+  },
+  {
+    "date":"2024-07-23",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":3652,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Travail #PolitiqueMigratoire",
+    "nb_retweets":98
+  },
+  {
+    "date":"2024-05-16",
+    "user":"user17",
+    "profil_user":"doctorant",
+    "nb_followers":726,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Europe",
+    "nb_retweets":108
+  },
+  {
+    "date":"2024-06-13",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":890,
+    "contenu_tweet":"La diversité culturelle est un atout. #Travail #DebatPublic",
+    "nb_retweets":20
+  },
+  {
+    "date":"2024-12-19",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":3686,
+    "contenu_tweet":"La diversité culturelle est un atout. #Asile #Immigration",
+    "nb_retweets":89
+  },
+  {
+    "date":"2024-12-09",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":3377,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Accueil",
+    "nb_retweets":93
+  },
+  {
+    "date":"2024-12-13",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":3639,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #PolitiqueMigratoire #DebatPublic",
+    "nb_retweets":8
+  },
+  {
+    "date":"2024-01-17",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":1306,
+    "contenu_tweet":"La pression sur les services publics augmente. #Migration #Accueil",
+    "nb_retweets":115
+  },
+  {
+    "date":"2024-07-06",
+    "user":"user17",
+    "profil_user":"doctorant",
+    "nb_followers":3310,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Immigration",
+    "nb_retweets":80
+  },
+  {
+    "date":"2024-09-12",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":4291,
+    "contenu_tweet":"L'immigration manque de régulation. #Asile #Travail",
+    "nb_retweets":99
+  },
+  {
+    "date":"2024-11-09",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":2389,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Travail",
+    "nb_retweets":125
+  },
+  {
+    "date":"2024-12-31",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":3696,
+    "contenu_tweet":"La pression sur les services publics augmente. #Migration #Asile",
+    "nb_retweets":22
+  },
+  {
+    "date":"2024-03-21",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":1476,
+    "contenu_tweet":"L'immigration manque de régulation. #Accueil",
+    "nb_retweets":92
+  },
+  {
+    "date":"2024-09-09",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":265,
+    "contenu_tweet":"La pression sur les services publics augmente. #Europe #Accueil",
+    "nb_retweets":92
+  },
+  {
+    "date":"2024-02-14",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":588,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #DebatPublic #Migration",
+    "nb_retweets":79
+  },
+  {
+    "date":"2024-06-11",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":657,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Accueil #Europe",
+    "nb_retweets":115
+  },
+  {
+    "date":"2024-08-09",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":4169,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Asile",
+    "nb_retweets":14
+  },
+  {
+    "date":"2024-03-23",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":2693,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Migration #Asile",
+    "nb_retweets":57
+  },
+  {
+    "date":"2024-11-21",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":4562,
+    "contenu_tweet":"La diversité culturelle est un atout. #Europe",
+    "nb_retweets":70
+  },
+  {
+    "date":"2024-10-30",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":4806,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Immigration #Europe",
+    "nb_retweets":39
+  },
+  {
+    "date":"2024-01-24",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":4774,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Immigration #Travail",
+    "nb_retweets":67
+  },
+  {
+    "date":"2024-05-28",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":2524,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Travail #Migration",
+    "nb_retweets":123
+  },
+  {
+    "date":"2024-03-21",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":3651,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Accueil #PolitiqueMigratoire",
+    "nb_retweets":106
+  },
+  {
+    "date":"2025-01-10",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":2879,
+    "contenu_tweet":"La diversité culturelle est un atout. #PolitiqueMigratoire",
+    "nb_retweets":102
+  },
+  {
+    "date":"2024-08-26",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":1053,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Immigration",
+    "nb_retweets":68
+  },
+  {
+    "date":"2024-07-15",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":3475,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #PolitiqueMigratoire #Frontieres",
+    "nb_retweets":63
+  },
+  {
+    "date":"2024-09-12",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":4266,
+    "contenu_tweet":"La diversité culturelle est un atout. #Immigration #Migration",
+    "nb_retweets":119
+  },
+  {
+    "date":"2024-09-15",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":3795,
+    "contenu_tweet":"La diversité culturelle est un atout. #Immigration",
+    "nb_retweets":61
+  },
+  {
+    "date":"2024-09-10",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":4944,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #DebatPublic",
+    "nb_retweets":120
+  },
+  {
+    "date":"2024-05-15",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":3046,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Europe",
+    "nb_retweets":103
+  },
+  {
+    "date":"2024-07-04",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":4582,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Europe #Asile",
+    "nb_retweets":73
+  },
+  {
+    "date":"2024-12-14",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":1023,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #PolitiqueMigratoire #Europe",
+    "nb_retweets":32
+  },
+  {
+    "date":"2024-04-11",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":4985,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Immigration",
+    "nb_retweets":130
+  },
+  {
+    "date":"2024-12-31",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":2778,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #PolitiqueMigratoire",
+    "nb_retweets":121
+  },
+  {
+    "date":"2024-06-12",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":1381,
+    "contenu_tweet":"La pression sur les services publics augmente. #Europe #Travail",
+    "nb_retweets":100
+  },
+  {
+    "date":"2024-06-02",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":3940,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Asile #Immigration",
+    "nb_retweets":4
+  },
+  {
+    "date":"2024-08-30",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":2225,
+    "contenu_tweet":"L'immigration manque de régulation. #Accueil #DebatPublic",
+    "nb_retweets":148
+  },
+  {
+    "date":"2024-12-14",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":2034,
+    "contenu_tweet":"L'immigration manque de régulation. #Immigration",
+    "nb_retweets":8
+  },
+  {
+    "date":"2024-06-09",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":3480,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Europe #Travail",
+    "nb_retweets":38
+  },
+  {
+    "date":"2024-12-27",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":1181,
+    "contenu_tweet":"La diversité culturelle est un atout. #Europe #DebatPublic",
+    "nb_retweets":132
+  },
+  {
+    "date":"2024-03-29",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":3815,
+    "contenu_tweet":"La diversité culturelle est un atout. #Travail #Frontieres",
+    "nb_retweets":136
+  },
+  {
+    "date":"2024-05-22",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":4621,
+    "contenu_tweet":"La diversité culturelle est un atout. #Frontieres #Travail",
+    "nb_retweets":76
+  },
+  {
+    "date":"2024-09-02",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":2907,
+    "contenu_tweet":"La pression sur les services publics augmente. #Migration #DebatPublic",
+    "nb_retweets":143
+  },
+  {
+    "date":"2024-06-25",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":1249,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Travail #Asile",
+    "nb_retweets":74
+  },
+  {
+    "date":"2024-04-19",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":1705,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Accueil #Migration",
+    "nb_retweets":137
+  },
+  {
+    "date":"2025-01-14",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":4857,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Frontieres",
+    "nb_retweets":61
+  },
+  {
+    "date":"2024-02-21",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":3435,
+    "contenu_tweet":"L'immigration manque de régulation. #Immigration",
+    "nb_retweets":84
+  },
+  {
+    "date":"2024-03-21",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":3383,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #PolitiqueMigratoire #Asile",
+    "nb_retweets":121
+  },
+  {
+    "date":"2025-01-28",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":782,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #DebatPublic",
+    "nb_retweets":146
+  },
+  {
+    "date":"2024-01-19",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":3302,
+    "contenu_tweet":"La diversité culturelle est un atout. #Immigration",
+    "nb_retweets":126
+  },
+  {
+    "date":"2024-10-17",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":4987,
+    "contenu_tweet":"La pression sur les services publics augmente. #Travail #Europe",
+    "nb_retweets":27
+  },
+  {
+    "date":"2024-09-15",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":3884,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Accueil #Travail",
+    "nb_retweets":69
+  },
+  {
+    "date":"2025-01-02",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":1575,
+    "contenu_tweet":"La pression sur les services publics augmente. #Accueil",
+    "nb_retweets":3
+  },
+  {
+    "date":"2024-11-23",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":3371,
+    "contenu_tweet":"L'immigration manque de régulation. #Migration #Accueil",
+    "nb_retweets":109
+  },
+  {
+    "date":"2024-09-01",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":2700,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Travail",
+    "nb_retweets":63
+  },
+  {
+    "date":"2024-06-17",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":2523,
+    "contenu_tweet":"L'immigration manque de régulation. #PolitiqueMigratoire #Frontieres",
+    "nb_retweets":149
+  },
+  {
+    "date":"2024-12-07",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":1018,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Migration #Asile",
+    "nb_retweets":119
+  },
+  {
+    "date":"2024-11-10",
+    "user":"user12",
+    "profil_user":"assistante_sociale",
+    "nb_followers":1859,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Travail",
+    "nb_retweets":56
+  },
+  {
+    "date":"2024-07-10",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":3456,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Frontieres",
+    "nb_retweets":140
+  },
+  {
+    "date":"2024-02-11",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":4354,
+    "contenu_tweet":"La pression sur les services publics augmente. #Migration",
+    "nb_retweets":114
+  },
+  {
+    "date":"2024-10-07",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":4190,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #PolitiqueMigratoire",
+    "nb_retweets":51
+  },
+  {
+    "date":"2024-08-14",
+    "user":"user17",
+    "profil_user":"doctorant",
+    "nb_followers":1002,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Europe",
+    "nb_retweets":52
+  },
+  {
+    "date":"2024-01-29",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":3764,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Europe",
+    "nb_retweets":33
+  },
+  {
+    "date":"2024-12-10",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":2574,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Migration",
+    "nb_retweets":5
+  },
+  {
+    "date":"2024-08-04",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":2872,
+    "contenu_tweet":"L'immigration manque de régulation. #Travail",
+    "nb_retweets":16
+  },
+  {
+    "date":"2024-05-26",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":3399,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #DebatPublic #Travail",
+    "nb_retweets":46
+  },
+  {
+    "date":"2024-07-11",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":707,
+    "contenu_tweet":"La diversité culturelle est un atout. #Accueil",
+    "nb_retweets":138
+  },
+  {
+    "date":"2024-07-20",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":4382,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Immigration",
+    "nb_retweets":32
+  },
+  {
+    "date":"2024-08-25",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":4510,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Travail",
+    "nb_retweets":108
+  },
+  {
+    "date":"2024-03-20",
+    "user":"user12",
+    "profil_user":"assistante_sociale",
+    "nb_followers":2308,
+    "contenu_tweet":"L'immigration manque de régulation. #DebatPublic",
+    "nb_retweets":48
+  },
+  {
+    "date":"2025-01-27",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":178,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Travail",
+    "nb_retweets":61
+  },
+  {
+    "date":"2024-12-10",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":448,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Frontieres #Europe",
+    "nb_retweets":62
+  },
+  {
+    "date":"2024-03-12",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":4177,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #PolitiqueMigratoire #Frontieres",
+    "nb_retweets":74
+  },
+  {
+    "date":"2024-03-14",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":4320,
+    "contenu_tweet":"La diversité culturelle est un atout. #Europe",
+    "nb_retweets":56
+  },
+  {
+    "date":"2025-01-11",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":1484,
+    "contenu_tweet":"L'immigration manque de régulation. #DebatPublic #PolitiqueMigratoire",
+    "nb_retweets":109
+  },
+  {
+    "date":"2024-07-28",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":1272,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Frontieres #Europe",
+    "nb_retweets":76
+  },
+  {
+    "date":"2024-12-28",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":1232,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #DebatPublic #Accueil",
+    "nb_retweets":118
+  },
+  {
+    "date":"2024-05-04",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":2138,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #PolitiqueMigratoire #Migration",
+    "nb_retweets":52
+  },
+  {
+    "date":"2025-01-05",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":1610,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Migration",
+    "nb_retweets":13
+  },
+  {
+    "date":"2025-01-24",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":4863,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Asile #Immigration",
+    "nb_retweets":143
+  },
+  {
+    "date":"2024-04-07",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":1011,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #DebatPublic",
+    "nb_retweets":122
+  },
+  {
+    "date":"2024-10-09",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":2684,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Asile #Europe",
+    "nb_retweets":72
+  },
+  {
+    "date":"2024-09-19",
+    "user":"user12",
+    "profil_user":"assistante_sociale",
+    "nb_followers":4123,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Frontieres #PolitiqueMigratoire",
+    "nb_retweets":119
+  },
+  {
+    "date":"2024-07-30",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":424,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Asile",
+    "nb_retweets":144
+  },
+  {
+    "date":"2024-10-26",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":4794,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Frontieres #DebatPublic",
+    "nb_retweets":106
+  },
+  {
+    "date":"2024-05-05",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":4140,
+    "contenu_tweet":"La pression sur les services publics augmente. #Travail #Europe",
+    "nb_retweets":140
+  },
+  {
+    "date":"2024-03-27",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":2935,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Accueil #Immigration",
+    "nb_retweets":43
+  },
+  {
+    "date":"2024-01-18",
+    "user":"user17",
+    "profil_user":"doctorant",
+    "nb_followers":658,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Frontieres",
+    "nb_retweets":12
+  },
+  {
+    "date":"2024-12-28",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":1287,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Immigration #Travail",
+    "nb_retweets":2
+  },
+  {
+    "date":"2024-01-09",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":104,
+    "contenu_tweet":"L'immigration manque de régulation. #Europe",
+    "nb_retweets":136
+  },
+  {
+    "date":"2024-10-01",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":2398,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Migration",
+    "nb_retweets":4
+  },
+  {
+    "date":"2024-09-25",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":1269,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #PolitiqueMigratoire #Asile",
+    "nb_retweets":61
+  },
+  {
+    "date":"2024-02-10",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":3106,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Asile",
+    "nb_retweets":103
+  },
+  {
+    "date":"2024-11-30",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":309,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Immigration #Europe",
+    "nb_retweets":23
+  },
+  {
+    "date":"2024-02-12",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":4144,
+    "contenu_tweet":"La pression sur les services publics augmente. #Europe",
+    "nb_retweets":111
+  },
+  {
+    "date":"2024-04-27",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":1781,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Asile",
+    "nb_retweets":145
+  },
+  {
+    "date":"2024-10-15",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":319,
+    "contenu_tweet":"La pression sur les services publics augmente. #Frontieres",
+    "nb_retweets":45
+  },
+  {
+    "date":"2024-03-14",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":3312,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #DebatPublic",
+    "nb_retweets":19
+  },
+  {
+    "date":"2024-06-18",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":3194,
+    "contenu_tweet":"L'immigration manque de régulation. #Immigration #Migration",
+    "nb_retweets":35
+  },
+  {
+    "date":"2024-04-28",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":672,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #PolitiqueMigratoire #Immigration",
+    "nb_retweets":87
+  },
+  {
+    "date":"2024-08-18",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":4069,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Accueil #DebatPublic",
+    "nb_retweets":58
+  },
+  {
+    "date":"2025-01-30",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":2469,
+    "contenu_tweet":"L'immigration manque de régulation. #Accueil #DebatPublic",
+    "nb_retweets":63
+  },
+  {
+    "date":"2025-01-13",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":3241,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Asile",
+    "nb_retweets":81
+  },
+  {
+    "date":"2024-07-03",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":2259,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Travail #DebatPublic",
+    "nb_retweets":26
+  },
+  {
+    "date":"2024-01-14",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":784,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #DebatPublic #Immigration",
+    "nb_retweets":90
+  },
+  {
+    "date":"2024-07-30",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":3226,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Europe",
+    "nb_retweets":21
+  },
+  {
+    "date":"2024-12-16",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":3168,
+    "contenu_tweet":"La diversité culturelle est un atout. #Travail #Accueil",
+    "nb_retweets":43
+  },
+  {
+    "date":"2024-03-26",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":3610,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #PolitiqueMigratoire",
+    "nb_retweets":70
+  },
+  {
+    "date":"2024-05-06",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":4111,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Immigration #DebatPublic",
+    "nb_retweets":50
+  },
+  {
+    "date":"2024-11-13",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":3162,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Asile",
+    "nb_retweets":84
+  },
+  {
+    "date":"2024-11-04",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":1695,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Asile #Travail",
+    "nb_retweets":122
+  },
+  {
+    "date":"2024-05-04",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":2719,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Migration #Frontieres",
+    "nb_retweets":96
+  },
+  {
+    "date":"2024-10-06",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":1523,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Travail",
+    "nb_retweets":140
+  },
+  {
+    "date":"2024-12-20",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":616,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Frontieres #Asile",
+    "nb_retweets":104
+  },
+  {
+    "date":"2025-01-01",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":3516,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #DebatPublic #Europe",
+    "nb_retweets":96
+  },
+  {
+    "date":"2024-01-19",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":2995,
+    "contenu_tweet":"L'immigration manque de régulation. #Frontieres",
+    "nb_retweets":137
+  },
+  {
+    "date":"2024-03-26",
+    "user":"user12",
+    "profil_user":"assistante_sociale",
+    "nb_followers":412,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #DebatPublic #Migration",
+    "nb_retweets":144
+  },
+  {
+    "date":"2024-02-20",
+    "user":"user01",
+    "profil_user":"citoyen_engage",
+    "nb_followers":2169,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Travail",
+    "nb_retweets":56
+  },
+  {
+    "date":"2024-07-19",
+    "user":"user12",
+    "profil_user":"assistante_sociale",
+    "nb_followers":3843,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Immigration #Travail",
+    "nb_retweets":150
+  },
+  {
+    "date":"2024-05-31",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":3457,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Asile #PolitiqueMigratoire",
+    "nb_retweets":21
+  },
+  {
+    "date":"2024-04-15",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":4318,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Travail #PolitiqueMigratoire",
+    "nb_retweets":123
+  },
+  {
+    "date":"2024-06-02",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":416,
+    "contenu_tweet":"La diversité culturelle est un atout. #Accueil",
+    "nb_retweets":29
+  },
+  {
+    "date":"2024-09-21",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":1479,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Travail #Frontieres",
+    "nb_retweets":141
+  },
+  {
+    "date":"2024-11-18",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":1561,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Immigration #Frontieres",
+    "nb_retweets":47
+  },
+  {
+    "date":"2024-10-30",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":3568,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Asile",
+    "nb_retweets":99
+  },
+  {
+    "date":"2024-10-22",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":883,
+    "contenu_tweet":"La diversité culturelle est un atout. #Travail",
+    "nb_retweets":137
+  },
+  {
+    "date":"2024-05-14",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":4059,
+    "contenu_tweet":"La pression sur les services publics augmente. #DebatPublic #Migration",
+    "nb_retweets":135
+  },
+  {
+    "date":"2024-06-29",
+    "user":"user12",
+    "profil_user":"assistante_sociale",
+    "nb_followers":3800,
+    "contenu_tweet":"La pression sur les services publics augmente. #Accueil",
+    "nb_retweets":44
+  },
+  {
+    "date":"2024-03-01",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":2004,
+    "contenu_tweet":"La diversité culturelle est un atout. #Europe",
+    "nb_retweets":78
+  },
+  {
+    "date":"2024-08-02",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":4935,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Travail",
+    "nb_retweets":35
+  },
+  {
+    "date":"2024-12-21",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":1469,
+    "contenu_tweet":"La diversité culturelle est un atout. #Accueil",
+    "nb_retweets":142
+  },
+  {
+    "date":"2024-08-18",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":489,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Frontieres",
+    "nb_retweets":91
+  },
+  {
+    "date":"2024-10-14",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":4190,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Travail #Europe",
+    "nb_retweets":126
+  },
+  {
+    "date":"2024-02-12",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":4681,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Immigration #Asile",
+    "nb_retweets":7
+  },
+  {
+    "date":"2024-10-02",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":2414,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Europe #Migration",
+    "nb_retweets":43
+  },
+  {
+    "date":"2024-02-28",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":2244,
+    "contenu_tweet":"La pression sur les services publics augmente. #Travail",
+    "nb_retweets":139
+  },
+  {
+    "date":"2024-04-21",
+    "user":"user18",
+    "profil_user":"cadre_prive",
+    "nb_followers":3532,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Immigration #Travail",
+    "nb_retweets":26
+  },
+  {
+    "date":"2024-06-27",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":762,
+    "contenu_tweet":"L'immigration manque de régulation. #Frontieres",
+    "nb_retweets":112
+  },
+  {
+    "date":"2024-12-18",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":2922,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Frontieres",
+    "nb_retweets":109
+  },
+  {
+    "date":"2024-10-18",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":2923,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #PolitiqueMigratoire",
+    "nb_retweets":136
+  },
+  {
+    "date":"2024-05-28",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":4741,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Accueil",
+    "nb_retweets":68
+  },
+  {
+    "date":"2024-01-31",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":2321,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Accueil",
+    "nb_retweets":32
+  },
+  {
+    "date":"2024-05-06",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":3267,
+    "contenu_tweet":"La diversité culturelle est un atout. #DebatPublic #Travail",
+    "nb_retweets":125
+  },
+  {
+    "date":"2024-11-20",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":812,
+    "contenu_tweet":"La pression sur les services publics augmente. #Travail #Europe",
+    "nb_retweets":103
+  },
+  {
+    "date":"2024-10-24",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":70,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Migration #DebatPublic",
+    "nb_retweets":23
+  },
+  {
+    "date":"2024-08-07",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":1785,
+    "contenu_tweet":"La diversité culturelle est un atout. #Europe #Accueil",
+    "nb_retweets":126
+  },
+  {
+    "date":"2024-09-05",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":2865,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Migration",
+    "nb_retweets":12
+  },
+  {
+    "date":"2024-08-13",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":3789,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Accueil",
+    "nb_retweets":0
+  },
+  {
+    "date":"2024-03-22",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":2294,
+    "contenu_tweet":"La pression sur les services publics augmente. #PolitiqueMigratoire",
+    "nb_retweets":23
+  },
+  {
+    "date":"2024-01-27",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":3296,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Migration #Europe",
+    "nb_retweets":78
+  },
+  {
+    "date":"2024-04-19",
+    "user":"user01",
+    "profil_user":"citoyen_engage",
+    "nb_followers":3956,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Immigration #Europe",
+    "nb_retweets":19
+  },
+  {
+    "date":"2024-03-02",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":3509,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Migration #Europe",
+    "nb_retweets":33
+  },
+  {
+    "date":"2024-06-09",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":3061,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Migration",
+    "nb_retweets":76
+  },
+  {
+    "date":"2024-10-15",
+    "user":"user17",
+    "profil_user":"doctorant",
+    "nb_followers":119,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #DebatPublic",
+    "nb_retweets":42
+  },
+  {
+    "date":"2024-12-17",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":3674,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Migration",
+    "nb_retweets":55
+  },
+  {
+    "date":"2025-01-08",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":3195,
+    "contenu_tweet":"La pression sur les services publics augmente. #Frontieres",
+    "nb_retweets":89
+  },
+  {
+    "date":"2024-11-26",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":740,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Immigration #Asile",
+    "nb_retweets":63
+  },
+  {
+    "date":"2024-09-22",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":4224,
+    "contenu_tweet":"La pression sur les services publics augmente. #Frontieres",
+    "nb_retweets":48
+  },
+  {
+    "date":"2024-07-16",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":973,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Europe",
+    "nb_retweets":61
+  },
+  {
+    "date":"2024-07-03",
+    "user":"user01",
+    "profil_user":"citoyen_engage",
+    "nb_followers":2642,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #PolitiqueMigratoire #Accueil",
+    "nb_retweets":33
+  },
+  {
+    "date":"2025-01-29",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":647,
+    "contenu_tweet":"L'immigration manque de régulation. #Frontieres #Immigration",
+    "nb_retweets":4
+  },
+  {
+    "date":"2024-07-22",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":4200,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #DebatPublic #Europe",
+    "nb_retweets":73
+  },
+  {
+    "date":"2024-11-23",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":4445,
+    "contenu_tweet":"La pression sur les services publics augmente. #Asile",
+    "nb_retweets":137
+  },
+  {
+    "date":"2024-09-18",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":1714,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Asile",
+    "nb_retweets":39
+  },
+  {
+    "date":"2025-01-08",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":2004,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Travail",
+    "nb_retweets":14
+  },
+  {
+    "date":"2024-11-07",
+    "user":"user20",
+    "profil_user":"consultant",
+    "nb_followers":500,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Immigration",
+    "nb_retweets":79
+  },
+  {
+    "date":"2024-12-25",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":142,
+    "contenu_tweet":"La diversité culturelle est un atout. #Accueil #PolitiqueMigratoire",
+    "nb_retweets":41
+  },
+  {
+    "date":"2025-01-18",
+    "user":"user05",
+    "profil_user":"journaliste",
+    "nb_followers":2251,
+    "contenu_tweet":"L'immigration manque de régulation. #DebatPublic #Asile",
+    "nb_retweets":30
+  },
+  {
+    "date":"2024-02-02",
+    "user":"user17",
+    "profil_user":"doctorant",
+    "nb_followers":2204,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Europe #PolitiqueMigratoire",
+    "nb_retweets":147
+  },
+  {
+    "date":"2024-09-12",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":4693,
+    "contenu_tweet":"La diversité culturelle est un atout. #Migration",
+    "nb_retweets":42
+  },
+  {
+    "date":"2025-01-14",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":4218,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Immigration",
+    "nb_retweets":0
+  },
+  {
+    "date":"2024-07-05",
+    "user":"user16",
+    "profil_user":"blogueur",
+    "nb_followers":3187,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Frontieres #PolitiqueMigratoire",
+    "nb_retweets":38
+  },
+  {
+    "date":"2024-08-01",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":2670,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Migration #Immigration",
+    "nb_retweets":69
+  },
+  {
+    "date":"2024-04-24",
+    "user":"user06",
+    "profil_user":"retraite",
+    "nb_followers":4275,
+    "contenu_tweet":"L'immigration manque de régulation. #Asile #Europe",
+    "nb_retweets":11
+  },
+  {
+    "date":"2024-02-14",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":4580,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Asile #Frontieres",
+    "nb_retweets":116
+  },
+  {
+    "date":"2024-07-07",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":4897,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Accueil",
+    "nb_retweets":126
+  },
+  {
+    "date":"2024-07-28",
+    "user":"user01",
+    "profil_user":"citoyen_engage",
+    "nb_followers":245,
+    "contenu_tweet":"L'immigration manque de régulation. #Immigration #DebatPublic",
+    "nb_retweets":59
+  },
+  {
+    "date":"2024-02-23",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":1730,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Immigration #Accueil",
+    "nb_retweets":135
+  },
+  {
+    "date":"2024-02-17",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":409,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #PolitiqueMigratoire #Travail",
+    "nb_retweets":59
+  },
+  {
+    "date":"2024-10-24",
+    "user":"user03",
+    "profil_user":"employe_prive",
+    "nb_followers":832,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Immigration",
+    "nb_retweets":129
+  },
+  {
+    "date":"2024-12-05",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":1120,
+    "contenu_tweet":"La diversité culturelle est un atout. #PolitiqueMigratoire #Europe",
+    "nb_retweets":60
+  },
+  {
+    "date":"2024-05-19",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":1963,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Accueil",
+    "nb_retweets":19
+  },
+  {
+    "date":"2024-03-25",
+    "user":"user04",
+    "profil_user":"enseignant",
+    "nb_followers":3732,
+    "contenu_tweet":"L'immigration est une richesse pour la société. #Frontieres #Travail",
+    "nb_retweets":119
+  },
+  {
+    "date":"2024-08-25",
+    "user":"user10",
+    "profil_user":"commercant",
+    "nb_followers":2220,
+    "contenu_tweet":"La diversité culturelle est un atout. #Frontieres",
+    "nb_retweets":30
+  },
+  {
+    "date":"2024-03-16",
+    "user":"user11",
+    "profil_user":"agent_public",
+    "nb_followers":797,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Asile",
+    "nb_retweets":63
+  },
+  {
+    "date":"2024-03-30",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":304,
+    "contenu_tweet":"Il faut mieux contrôler les frontières. #Migration",
+    "nb_retweets":103
+  },
+  {
+    "date":"2024-02-22",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":1195,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Frontieres",
+    "nb_retweets":31
+  },
+  {
+    "date":"2024-07-09",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":738,
+    "contenu_tweet":"L'immigration manque de régulation. #Migration",
+    "nb_retweets":149
+  },
+  {
+    "date":"2024-11-26",
+    "user":"user07",
+    "profil_user":"infirmiere",
+    "nb_followers":3682,
+    "contenu_tweet":"La diversité culturelle est un atout. #Immigration",
+    "nb_retweets":32
+  },
+  {
+    "date":"2024-01-26",
+    "user":"user15",
+    "profil_user":"urbaniste",
+    "nb_followers":1426,
+    "contenu_tweet":"Les migrants contribuent à l'économie. #Immigration #DebatPublic",
+    "nb_retweets":146
+  },
+  {
+    "date":"2024-03-29",
+    "user":"user14",
+    "profil_user":"patron_pme",
+    "nb_followers":2949,
+    "contenu_tweet":"La pression sur les services publics augmente. #Travail #Accueil",
+    "nb_retweets":54
+  },
+  {
+    "date":"2024-11-10",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":2063,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Immigration #Migration",
+    "nb_retweets":75
+  },
+  {
+    "date":"2024-07-15",
+    "user":"user09",
+    "profil_user":"chercheur",
+    "nb_followers":1174,
+    "contenu_tweet":"Un débat apaisé est nécessaire. #Europe",
+    "nb_retweets":107
+  },
+  {
+    "date":"2024-07-14",
+    "user":"user01",
+    "profil_user":"citoyen_engage",
+    "nb_followers":2991,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Europe #PolitiqueMigratoire",
+    "nb_retweets":122
+  },
+  {
+    "date":"2024-05-18",
+    "user":"user13",
+    "profil_user":"ouvrier",
+    "nb_followers":1523,
+    "contenu_tweet":"L'accueil des migrants est une responsabilité collective. #Asile",
+    "nb_retweets":6
+  },
+  {
+    "date":"2024-08-29",
+    "user":"user02",
+    "profil_user":"etudiant",
+    "nb_followers":4387,
+    "contenu_tweet":"Les capacités d'accueil sont limitées. #Migration",
+    "nb_retweets":91
+  },
+  {
+    "date":"2024-12-02",
+    "user":"user08",
+    "profil_user":"chauffeur_vtc",
+    "nb_followers":2025,
+    "contenu_tweet":"L'immigration manque de régulation. #DebatPublic",
+    "nb_retweets":68
+  },
+  {
+    "date":"2024-03-29",
+    "user":"user12",
+    "profil_user":"assistante_sociale",
+    "nb_followers":1492,
+    "contenu_tweet":"La pression sur les services publics augmente. #PolitiqueMigratoire",
+    "nb_retweets":60
+  },
+  {
+    "date":"2024-10-15",
+    "user":"user19",
+    "profil_user":"militant_asso",
+    "nb_followers":1214,
+    "contenu_tweet":"Les politiques migratoires sont inefficaces. #Accueil #Travail",
+    "nb_retweets":144
+  }
+]
