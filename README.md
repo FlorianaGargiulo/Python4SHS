@@ -15,6 +15,7 @@ L'objectif est de fournir aux étudiants des outils pratiques pour **apprendre P
 | `4_dictionnaires.ipynb` | Introduction aux dictionnaires en Python : création, identification clés - valeurs, méthodes de base. Listes des dictionnaires|
 | `5_boucles_conditions_list_comprehension.ipynb` | Boucles for, condition if, utilisation pour modifier des listes. List comprehension.|
 | `6_lire_ecrire_des_fichiers.ipynb`| Comment lire et écrire txt, csv, json|
+| `7_pandas.ipynb`| Travailler avec les tableaux. Mini-tutoriel de la bibliotheque Pandas|
 
 ---
 
@@ -35,6 +36,7 @@ The goal is to provide students with practical tools to **learn Python** and app
 | `4_dictionnaires.ipynb` | Introduction to dictionaries in Python: creation, identification of keys and values, basic methods. Lists of dictionaries |
 | `5_boucles_conditions_list_comprehension.ipynb` | Cycles for, condition if, modifying lists. List comprehension.|
 | `6_lire_ecrire_des_fichiers.ipynb`|How to read and write txt, csv, json|
+| `7_pandas.ipynb`| Working with tables. Mini-tutorial of the Pandas library|
 
 
 ---
