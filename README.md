@@ -16,6 +16,7 @@ L'objectif est de fournir aux étudiants des outils pratiques pour **apprendre P
 | `5_boucles_conditions_list_comprehension.ipynb` | Boucles for, condition if, utilisation pour modifier des listes. List comprehension. Definition et application de fonctions|
 | `6_lire_ecrire_des_fichiers.ipynb`| Comment lire et écrire txt, csv, json|
 | `7_pandas.ipynb`| Travailler avec les tableaux. Mini-tutoriel de la bibliotheque Pandas|
+| `8_visualisation.ipynb`| Visualisation des données avec Matplotlib, Seaborn et plotly|
 
 ---
 
@@ -37,6 +38,8 @@ The goal is to provide students with practical tools to **learn Python** and app
 | `5_boucles_conditions_list_comprehension.ipynb` | Cycles for, condition if, modifying lists. List comprehension. Definition and application of functions|
 | `6_lire_ecrire_des_fichiers.ipynb`|How to read and write txt, csv, json|
 | `7_pandas.ipynb`| Working with tables. Mini-tutorial of the Pandas library|
+| `8_visualisation.ipynb`| Data visualization Matplotlib, Seaborn et plotly|
+
 
 
 ---
